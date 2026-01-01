@@ -1,0 +1,186 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.28"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "untitled2",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "A::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-A-Debug-0bade1407a30753346eb.json",
+					"name" : "A",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "C::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-C-Debug-8f3250190d7086e1ac54.json",
+					"name" : "C",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Cd::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Cd-Debug-fe5ba6b3eaefafb7b0b2.json",
+					"name" : "Cd",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "D::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-D-Debug-5864065b2a5377f27b9d.json",
+					"name" : "D",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "E::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-E-Debug-d3122ac465e046e7ec5a.json",
+					"name" : "E",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "F::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-F-Debug-6b54fff2557e6f02cc9c.json",
+					"name" : "F",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "G::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-G-Debug-cf938f5aaadeb24fa89d.json",
+					"name" : "G",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "H::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-H-Debug-574e0c1fb8bbdbcafe73.json",
+					"name" : "H",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "I::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-I-Debug-5cff011f4552bb342dc8.json",
+					"name" : "I",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "J::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-J-Debug-250ddee68c297b2ebab4.json",
+					"name" : "J",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "K::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-K-Debug-c01ed2916d211ff253e8.json",
+					"name" : "K",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "L::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-L-Debug-ab2f9c34fdfc9101e7be.json",
+					"name" : "L",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "M::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-M-Debug-20ba9318c80b6967c3b2.json",
+					"name" : "M",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "N::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-N-Debug-b3cc64a3c1ce76a8a665.json",
+					"name" : "N",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "O::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-O-Debug-856b091d969794cfb754.json",
+					"name" : "O",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/ZA/Desktop/Codeforces/HGNU/cmake-build-debug",
+		"source" : "C:/Users/ZA/Desktop/Codeforces/HGNU"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

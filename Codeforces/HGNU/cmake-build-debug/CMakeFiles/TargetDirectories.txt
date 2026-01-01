@@ -1,0 +1,17 @@
+C:/Users/ZA/Desktop/Codeforces/HGNU/cmake-build-debug/CMakeFiles/L.dir
+C:/Users/ZA/Desktop/Codeforces/HGNU/cmake-build-debug/CMakeFiles/A.dir
+C:/Users/ZA/Desktop/Codeforces/HGNU/cmake-build-debug/CMakeFiles/E.dir
+C:/Users/ZA/Desktop/Codeforces/HGNU/cmake-build-debug/CMakeFiles/J.dir
+C:/Users/ZA/Desktop/Codeforces/HGNU/cmake-build-debug/CMakeFiles/N.dir
+C:/Users/ZA/Desktop/Codeforces/HGNU/cmake-build-debug/CMakeFiles/G.dir
+C:/Users/ZA/Desktop/Codeforces/HGNU/cmake-build-debug/CMakeFiles/I.dir
+C:/Users/ZA/Desktop/Codeforces/HGNU/cmake-build-debug/CMakeFiles/H.dir
+C:/Users/ZA/Desktop/Codeforces/HGNU/cmake-build-debug/CMakeFiles/K.dir
+C:/Users/ZA/Desktop/Codeforces/HGNU/cmake-build-debug/CMakeFiles/F.dir
+C:/Users/ZA/Desktop/Codeforces/HGNU/cmake-build-debug/CMakeFiles/C.dir
+C:/Users/ZA/Desktop/Codeforces/HGNU/cmake-build-debug/CMakeFiles/O.dir
+C:/Users/ZA/Desktop/Codeforces/HGNU/cmake-build-debug/CMakeFiles/Cd.dir
+C:/Users/ZA/Desktop/Codeforces/HGNU/cmake-build-debug/CMakeFiles/D.dir
+C:/Users/ZA/Desktop/Codeforces/HGNU/cmake-build-debug/CMakeFiles/M.dir
+C:/Users/ZA/Desktop/Codeforces/HGNU/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ZA/Desktop/Codeforces/HGNU/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,4 @@
+C:/Users/ZA/Desktop/Codeforces/Hello2025/cmake-build-debug/CMakeFiles/A.dir
+C:/Users/ZA/Desktop/Codeforces/Hello2025/cmake-build-debug/CMakeFiles/B.dir
+C:/Users/ZA/Desktop/Codeforces/Hello2025/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ZA/Desktop/Codeforces/Hello2025/cmake-build-debug/CMakeFiles/rebuild_cache.dir

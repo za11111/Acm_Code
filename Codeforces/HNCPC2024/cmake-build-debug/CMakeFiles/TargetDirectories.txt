@@ -1,0 +1,4 @@
+C:/Users/ZA/Desktop/Codeforces/HNCPC2024/cmake-build-debug/CMakeFiles/C.dir
+C:/Users/ZA/Desktop/Codeforces/HNCPC2024/cmake-build-debug/CMakeFiles/I.dir
+C:/Users/ZA/Desktop/Codeforces/HNCPC2024/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ZA/Desktop/Codeforces/HNCPC2024/cmake-build-debug/CMakeFiles/rebuild_cache.dir
