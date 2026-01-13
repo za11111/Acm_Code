@@ -1,86 +1,59 @@
 #include <bits/stdc++.h>
 
 using namespace std;
-long long  p[200003];
-long long xa[200003];
-long long ya[200003];
+
 int main ()
 {
     int t;
     cin>>t;
     while(t--)
     {
-        long long n,x,y;
-        cin>>n>>x>>y;
+
+        int n;
+        long long  x, y;
+        cin >> n >> x >> y;
+
         string s;
-        cin>>s;
-        long long all = 0;
-        for(int i = 0;i < n;i++)
-        {
-            cin>>p[i];
-            all += p[i];
-        }
-        if(x+y < all)
-        {
-            cout<<"NO\n";
+        cin >> s;
+        s = '.'+s;
+
+        long long  p[n+1];
+        for (int i = 1; i <= n; i++) cin >> p[i];
+
+        if (accumulate(p+1, p+n+1, 0LL) > x+y) {
+            cout << "NO\n";
             continue;
         }
-        int ans = 0;
-        char ch = s[0];
-        for(int i = 1;i < n;i++)
-        {
-            if(s[i] == ch)
-            {
-                continue;
+
+        if (s == "." + string(n, '0') || s == "." + string(n, '1')) {
+            if (s == "." + string(n, '1')) {
+                swap(x, y);
             }
-            else
-            {
-                ans = 1;
-                break;
+
+            long long x_need = 0;
+            for (int i = 1; i <= n; i++) {
+                x_need += p[i]/2 + 1;
+            }
+
+            if (x < x_need || x < y+n) {
+                cout << "NO\n";
+            } else {
+                cout << "YES\n";
+            }
+
+            continue;
+        }
+
+        long long  x_need = 0, y_need = 0;
+        for (int i = 1; i <= n; i++) {
+            if (s[i] == '0') {
+                x_need += p[i]/2 + 1;
+            } else {
+                y_need += p[i]/2 + 1;
             }
         }
-        if(ans == 0)
-        {
-            long long allx,ally;
-            allx = ally = 0;
-            long long canx,cany;
-            canx = cany = 0;
-            for(int i = 0;i < n;i++)
-            {
-                if(s[i] == 0)
-                {
-                    allx += p[i];
-                    cany += (p[i] - 1) / 2;
-                }
-                else
-                {
-                    ally += p[i];
-                    canx += (p[i] - 1)/ 2;
-                }
-            }
-            if(allx <= x&&ally <=y)
-            {
-                cout<<"YES\n";
-            }
-            else if(allx > x)
-            {
-                if(allx-x <= canx)
-                    cout<<"YES\n";
-                else
-                    cout<<"NO\n";
-            }
-            else
-            {
-                if(ally-y <= cany)
-                    cout<<"YES\n";
-                else
-                    cout<<"NO\n";
-            }
-        }
-        else if(ans == 1)
-        {
-            
-        }
+        if (x >= x_need && y >= y_need) cout << "YES\n";
+        else cout << "NO\n";
 
 
     }
@@ -88,3 +61,19 @@ int main ()
 }
 
 
+/*
+1
+2 4 7
+11
+3 1
+YES
+*/
+
+
+/*
+1
+5 9 3
+10010
+2 1 3 3 2
+NO
+*/
